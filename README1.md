@@ -3,7 +3,7 @@
 - https://max-everyday.com/2018/03/tixcraft-bot/
 
 
-### Step
+### Istall Step
 
 1. install python 3.10.X ( 我是使用 3.10.6)
 2. 更新 pip
@@ -20,7 +20,7 @@
 >
 > or 
 >
-> python -m pip install git+https://github.com/max32002/> python-chromedriver-autoinstaller@master
+> python -m pip install git+https://github.com/max32002/> python-chromedriver-autoinstaller@master ( 推薦 )
 > ```
 
 5. download webdriver (我是使用 edge)
@@ -28,3 +28,8 @@
 > 在 chrome_tixcraft.py 的檔案裏面的 get_driver_by_config 方法，有每個 webdriver 載點
 
 6. 在此專案的目錄下創建 webdriver 資料夾，把剛剛下載的 .exe 檔放進去。
+
+### Start Step
+
+1. python settings.py (啟動成功後，就跟自己對介面的理解有關了，以下不負責)
+2. 下面有四個選項，最左邊的是開始搶票
