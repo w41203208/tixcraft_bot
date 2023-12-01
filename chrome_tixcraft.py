@@ -420,7 +420,7 @@ def get_chrome_options(webdriver_path, config_dict):
     #chrome_options.page_load_strategy = 'none'
     chrome_options.unhandled_prompt_behavior = "accept"
 
-    DebugTool.print_options(chrome_options);
+    # DebugTool.print_options(chrome_options);
     
     return chrome_options
 
